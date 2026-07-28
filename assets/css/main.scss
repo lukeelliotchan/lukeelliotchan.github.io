@@ -38,6 +38,9 @@
     "layout/json_cv"
 ;
 
-.author__avatar img {
+.author__avatar,
+.author__avatar img,
+.author__avatar a {
   border-radius: 0 !important;
+  overflow: visible !important;
 }
